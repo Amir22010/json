@@ -1,0 +1,22 @@
+{
+  "members" : [
+    {
+      "name" : "Molecule Man",
+      "myPhone" : +91-123-456-7890,
+      "gender" : "male",
+      "country" : "india"
+    },
+    {
+      "name" : "Molecule Man",
+      "myPhone" : +91-123-456-7891,
+      "gender" : "male",
+      "country" : "india"
+    },
+    {
+     "name" : "Molecule Man",
+      "myPhone" : +91-123-456-7892,
+      "gender" : "male",
+      "country" : "india"
+    }
+  ]
+}
