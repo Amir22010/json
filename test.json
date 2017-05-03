@@ -1,5 +1,5 @@
 {
-  "JSON Name": "Employee",
+  "jsonName": "Employee",
   "homeTown": "Noida",
   "active": true,
   "members": [
