@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<CATALOG>
+		<MEMBERS>
+			<NAME>Amir</NAME>
+			<ID>7890</ID>
+			<GENDER>male</GENDER>
+			<COUNTRY>india</COUNTRY>
+		</MEMBERS>
+		<MEMBERS>
+			<NAME>Amir</NAME>
+			<ID>7891</ID>
+			<GENDER>male</GENDER>
+			<COUNTRY>india</COUNTRY>
+		</MEMBERS>
+		<MEMBERS>
+			<NAME>Amir</NAME>
+			<ID>7892</ID>
+			<GENDER>male</GENDER>
+			<COUNTRY>india</COUNTRY>
+		</MEMBERS>
+	</CATALOG>
+	
