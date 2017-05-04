@@ -1,0 +1,24 @@
+{
+  "folderName" : "Catalog",
+  "homeTown" : "Sonbhadra",
+  "formed" : 2017,
+  "companyWorking" : "HCL",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Amir",
+      "age" : 29,
+      "Identity" : 123456,
+    },
+    {
+      "name" : "Amir",
+      "age" : 39,
+      "Identity" : 123457,
+    },
+    {
+      "name" : "Amir",
+      "age" : 49,
+      "Identity" : "Unknown",
+    }
+  ]
+}
