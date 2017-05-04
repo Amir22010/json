@@ -1,22 +1,21 @@
-{ 
-  "CATALOG" : {
+{
   
-    "MEMBERS" : [
+    "members" : [
     {
       "NAME" : "Amir",
-      "ID" : "7890",
+      "PHONE" : "7890",
       "GENDER" : "male",
       "COUNTRY" : "india"
     },
     {
       "NAME" : "Amir",
-      "ID" : "7891",
+      "PHONE" : "7891",
       "GENDER" : "male",
       "COUNTRY" : "india"
     },
     {
       "NAME" : "Amir",
-      "ID" : "7892",
+      "PHONE" : "7892",
       "GENDER" : "male",
       "COUNTRY" : "india"
     },
