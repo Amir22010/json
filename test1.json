@@ -1,5 +1,7 @@
-{
-  "members" : [
+{ 
+  "CATALOG" : {
+  
+    "members" : [
     {
       "myName" : "Amir",
       "myId" : 7890,
@@ -19,4 +21,5 @@
       "country" : "india"
     }
   ]
+}
 }
