@@ -13,7 +13,7 @@
     {
       "name" : "Amir",
       "age" : 39,
-      "Identity" : "123457",
+      "Identity" : 123457,
     },
     {
       "name" : "Amir",
