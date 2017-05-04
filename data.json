@@ -9,33 +9,19 @@
       "name": "Amir",
       "age": 29,
       "secretIdentity": "1234",
-      "powers": [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
-      ]
+     
     },
     {
       "name": "Amir",
       "age": 39,
       "secretIdentity": "1235",
-      "powers": [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
-      ]
+      
     },
     {
       "name": "Amir",
       "age": 1000000,
       "secretIdentity": "Unknown",
-      "powers": [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
-      ]
+     
     }
   ]
 }
