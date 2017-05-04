@@ -1,25 +1,25 @@
 { 
   "CATALOG" : {
   
-    "members" : [
+    "MEMBERS" : [
     {
-      "myName" : "Amir",
-      "myId" : "7890",
-      "gender" : "male",
-      "country" : "india"
+      "NAME" : "Amir",
+      "ID" : "7890",
+      "GENDER" : "male",
+      "COUNTRY" : "india"
     },
     {
-      "myName" : "Amir",
-      "myId" : "7891",
-      "gender" : "male",
-      "country" : "india"
+      "NAME" : "Amir",
+      "ID" : "7891",
+      "GENDER" : "male",
+      "COUNTRY" : "india"
     },
     {
-     "myName" : "Amir",
-      "myId" : "7892",
-      "gender" : "male",
-      "country" : "india"
-    }
+      "NAME" : "Amir",
+      "ID" : "7892",
+      "GENDER" : "male",
+      "COUNTRY" : "india"
+    },
   ]
 }
 }
