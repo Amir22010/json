@@ -1,12 +1,12 @@
 {
-  "squadName": "Super hero squad",
-  "homeTown": "Metro City",
+  "squadName": "Employee",
+  "homeTown": "Sonbhadra",
   "formed": 2016,
-  "secretBase": "Super tower",
+  "secretBase": "HCL Tech",
   "active": true,
   "members": [
     {
-      "name": "Molecule Man",
+      "name": "Amir",
       "age": 29,
       "secretIdentity": "Dan Jukes",
       "powers": [
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "Madame Uppercut",
+      "name": "Amir",
       "age": 39,
       "secretIdentity": "Jane Wilson",
       "powers": [
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "name": "Eternal Flame",
+      "name": "Amir",
       "age": 1000000,
       "secretIdentity": "Unknown",
       "powers": [
