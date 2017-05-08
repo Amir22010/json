@@ -3,39 +3,46 @@
 {
 	"firstname":"AMIR",
 	"user":"1231",
-	"location":"noida"
+	"location":"noida",
+	"gender":"M"
 },
 {
 	"firstname":"AMIR",
 	"user":"1232",
 	"location":"chennai"
+	"gender":"M"
 },
 {
 	"firstname":"AMIR",
 	"user":"1233",
-	"location":"bangalore"
+	"location":"bangalore",
+	"gender":"M"
 },
 {
 	"firstname":"AMIR",
 	"user":"1234",
-	"location":"hyderabad"
+	"location":"hyderabad",
+	"gender":"F"
 },
 {
 	
 	"firstname":"AMIR",
 	"user":"1235",
-	"location":"hyderabad"
+	"location":"hyderabad",
+	"gender":"F"
 },
 {
 	
 	"firstname":"AMIR",
 	"user":"1236",
-	"location":"noida"
+	"location":"noida",
+	"gender":"F"
 },
 {
 	"firstname":"AMIR",
 	"user":"1237",
-	"location":"chennai"
+	"location":"chennai",
+	"gender":"M"
 }
 
 ]
