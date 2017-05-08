@@ -1,4 +1,6 @@
 {
+"members":[
+{
 	"first_name":"AMIR",
 	"last_name":"KHAN",
 	"gender":"M"
@@ -10,5 +12,7 @@
 {      "first_name":"DEF",
 	"last_name":"GHI",
 	"gender":"M"
+}
+]
 }
        
