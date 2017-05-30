@@ -1,45 +1,45 @@
 {  "members":[
 
 {
-	"firstname":"AMIR",
+	"firstname":"A",
 	"user":"1231",
 	"location":"noida",
 	"gender":"M"
 },
 {
-	"firstname":"AMIR",
+	"firstname":"B",
 	"user":"1232",
 	"location":"chennai",
 	"gender":"M"
 },
 {
-	"firstname":"AMIR",
+	"firstname":"C",
 	"user":"1233",
 	"location":"bangalore",
 	"gender":"M"
 },
 {
-	"firstname":"AMIR",
+	"firstname":"D",
 	"user":"1234",
 	"location":"hyderabad",
-	"gender":"F"
+	"gender":"M"
 },
 {
 	
-	"firstname":"AMIR",
+	"firstname":"E",
 	"user":"1235",
 	"location":"hyderabad",
-	"gender":"F"
+	"gender":"M"
 },
 {
 	
-	"firstname":"AMIR",
+	"firstname":"F",
 	"user":"1236",
 	"location":"noida",
-	"gender":"F"
+	"gender":"M"
 },
 {
-	"firstname":"AMIR",
+	"firstname":"G",
 	"user":"1237",
 	"location":"chennai",
 	"gender":"M"
